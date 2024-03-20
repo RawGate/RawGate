@@ -1,15 +1,13 @@
 # 💫 About Me:
 👋 Salut, I’m Ruby (Rawabi), a fresh computer science graduate with a passion for data analysis and frontend development!
 
-🌱 I’m currently diving deep into the world of programming, exploring various languages and frameworks to enhance my skills in data analysis and frontend/backend development.
+🌱 I’m currently learning some programming, exploring various languages and frameworks to enhance my skills in data analysis and frontend/backend development.
 
-💡 I believe that data is the key to unlocking valuable insights and driving informed decision-making. I enjoy working with datasets, performing statistical analysis, and visualizing data to tell compelling stories.
+💡 I enjoy working with datasets, performing statistical analysis, and visualizing data.
 
-👀 I'm eager to apply my knowledge and skills in real-world projects, leveraging the power of data to solve complex problems and make a meaningful impact.
+💻 On the frontend side, I enjoy exploring new technologies to enhance the overall user journey.
 
-💻 On the frontend side, I love creating intuitive and visually appealing user interfaces. I enjoy crafting seamless user experiences and exploring new technologies to enhance the overall user journey.
-
-🚀 I'm always seeking opportunities to learn and grow, as I believe that the tech industry is ever-evolving, and there's always something new to explore.
+🚀 I'm always seeking opportunities to learn and grow, as I believe there's always something new to explore. and I'm eager to apply my knowledge and skills in real-world projects, and make a meaningful impact.
 
 📚 Outside of coding, you'll find me immersed in books. In addition, I'm learning three interesting languages: French, German, and Italian to explore more linguistic possibilities. I also stay up-to-date with industry news and technology trends. 🌍📚💻
 
