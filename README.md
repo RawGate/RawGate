@@ -1,12 +1,19 @@
 # 💫 About Me:
-👋 Salut! I'm Ruby (Rawabi), a computer science graduate passionate about data analysis and frontend development.
-🌱 Currently, I'm diving deep into programming, exploring different languages and frameworks to enhance my skills in data analysis and frontend/backend development.
-💡 I believe data holds the key to valuable insights and informed decision-making. Statistical analysis, data visualization, and storytelling through data are my areas of interest.
-👀 I'm eager to apply my knowledge and skills to real-world projects, using data to solve complex problems and make a meaningful impact.
-💻 On the frontend side, I enjoy creating intuitive and visually appealing user interfaces. Exploring new technologies to enhance user experiences is something I love.
-🚀 I'm always seeking opportunities to learn and grow because the tech industry is ever-evolving, offering endless possibilities to explore.
-📚 Apart from coding, you'll find me immersed in books. I'm also learning French, German, and Italian to explore more linguistic possibilities. Staying updated with industry news and technology trends is a priority.
-✉️ Feel free to connect with me via Email, GitHub, or LinkedIn. I'm open to new opportunities, collaborations, and discussions related to data analysis and frontend development.
+👋 Salut, I’m Ruby (Rawabi), a fresh computer science graduate with a passion for data analysis and frontend development!
+
+🌱 I’m currently diving deep into the world of programming, exploring various languages and frameworks to enhance my skills in data analysis and frontend/backend development.
+
+💡 I believe that data is the key to unlocking valuable insights and driving informed decision-making. I enjoy working with datasets, performing statistical analysis, and visualizing data to tell compelling stories.
+
+👀 I'm eager to apply my knowledge and skills in real-world projects, leveraging the power of data to solve complex problems and make a meaningful impact.
+
+💻 On the frontend side, I love creating intuitive and visually appealing user interfaces. I enjoy crafting seamless user experiences and exploring new technologies to enhance the overall user journey.
+
+🚀 I'm always seeking opportunities to learn and grow, as I believe that the tech industry is ever-evolving, and there's always something new to explore.
+
+📚 Outside of coding, you'll find me immersed in books. In addition, I'm learning three interesting languages: French, German, and Italian to explore more linguistic possibilities. I also stay up-to-date with industry news and technology trends. 🌍📚💻
+
+✉️ Feel free to connect with me on Email, GitHub, or LinkedIn. I'm open to new opportunities, collaborations, and discussions related to data analysis and frontend development.
 
 
 ## 🌐 Socials:
