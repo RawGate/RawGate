@@ -9,9 +9,9 @@
 
 🚀 I'm always seeking opportunities to learn and grow, as I believe there's always something new to explore. and I'm eager to apply my knowledge and skills in real-world projects, and make a meaningful impact.
 
-📚 Outside of coding, you'll find me immersed in books. In addition, I'm learning three interesting languages: French, German, and Italian to explore more linguistic possibilities. I also stay up-to-date with industry news and technology trends. 🌍📚💻
+📚 Outside of coding, you'll find me immersed in books. In addition, I'm learning three interesting languages: French, German, and Italian to explore more linguistic possibilities. 🌍📚
 
-✉️ Feel free to connect with me on Email, GitHub, or LinkedIn. I'm open to new opportunities, collaborations, and discussions related to data analysis and frontend development.
+✉️ Feel free to connect with me via Email, GitHub, or LinkedIn. I'm open to new opportunities, collaborations, and discussions related to data analysis and frontend development.
 
 
 ## 🌐 Socials:
