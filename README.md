@@ -1,5 +1,5 @@
 # 💎 About Me:
-👋 Salut, I’m Ruby (Rawabi), a fresh computer science graduate with a passion for data analysis and frontend development!
+👋 Salut, I’m Ruby (Rawabi), a fresh computer science graduate.
 
 🌱 I’m currently learning some programming, exploring various languages and frameworks to enhance my skills in data analysis and frontend/backend development.
 
@@ -7,7 +7,7 @@
 
 💻 On the frontend side, I enjoy exploring new technologies to enhance the overall user journey.
 
-📚 Outside of coding, you'll find me immersed in books. In addition, I'm learning three interesting languages: French, German, and Italian to explore more linguistic possibilities. 🌍📚
+📚 Outside of coding, you'll find me immersed in books. In addition, I'm learning three interesting languages: French, German, and Italian. 🌍📚
 
 ✉️ Feel free to connect with me via Email, GitHub, or LinkedIn. I'm open to new opportunities, collaborations, and discussions related to data analysis and frontend development.
 
