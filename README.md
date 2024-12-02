@@ -1,5 +1,5 @@
 # 💎 About Me:
-👋 Salut, I’m Ruby (Rawabi), a fresh computer science graduate.
+👋 Salut
 
 🌱 I’m currently learning some programming, exploring various languages and frameworks to enhance my skills in data analysis and frontend/backend development.
 
